@@ -60,7 +60,7 @@
 2. Токен `арифметическая_операция` с лексемой `+`
 3. Токен `число` с лексемой `30`
 
-## <img style="width: 1.5em" src="https://render.githubusercontent.com/render/math?math=LL">- и <img style="width: 1.5em" src="https://render.githubusercontent.com/render/math?math=LR">-грамматики
+## <img src="https://render.githubusercontent.com/render/math?math=\Large{ LL }">- и <img src="https://render.githubusercontent.com/render/math?math=\Large{ LR }">-грамматики
 
 Пример грамматики:
 
@@ -89,7 +89,7 @@
 
 Нетерминалы могут включать в себя как терминалы, так и другие нетерминалы.
 
-### Расшифровка <img style="width: 1.5em" src="https://render.githubusercontent.com/render/math?math=LL\left( k \right)">- и <img style="width: 1.5em" src="https://render.githubusercontent.com/render/math?math=LR\left( k \right)">-грамматик:
+### Расшифровка <img src="https://render.githubusercontent.com/render/math?math=\Large{ LL\left( k \right) }">- и <img src="https://render.githubusercontent.com/render/math?math=\Large{ LR\left( k \right) }">-грамматик:
 
 - <img src="https://render.githubusercontent.com/render/math?math=LL"> – **L**eft to right **L**eftmost derivation
 - <img src="https://render.githubusercontent.com/render/math?math=LR"> – **L**eft to right **R**ightmost derivation 
